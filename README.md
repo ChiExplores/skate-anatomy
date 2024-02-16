@@ -1,2 +1,2 @@
 # skate-anatomy
-fun project of skate anatomy for beginners to learn about skate parts
+fun project for beginners to learn about skate parts

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "image": "url-to-deck-image",
+        "name": "Deck",
+        "description": "The flat board you stand on. Made of layered maple wood.",
+        "example": "Larger decks (8.5 inches or wider) provide stability for vert skating, while smaller decks (less than 8 inches wide) are preferred for street skating."
+    },
+    {
+        "id": "2",
+        "image": "url-to-trucks-image",
+        "name": "Trucks",
+        "description": "The T-shaped metal parts that attach the wheels to the deck.",
+        "example": "Tighter trucks are stable for ramp tricks, while looser trucks allow for easier turning on flat ground."
+    },
+    {
+        "id": "3",
+        "image": "url-to-wheels-image",
+        "name": "Wheels",
+        "description": "Round parts made of polyurethane, allowing the skateboard to roll.",
+        "example": "Harder wheels (99A-101A) are ideal for smooth surfaces and technical tricks, softer wheels (78A-87A) are better for street and rough surfaces."
+    },
+    {
+        "id": "4",
+        "image": "url-to-bearings-image",
+        "name": "Bearings",
+        "description": "Small metal rings that fit inside the wheels to allow them to spin.",
+        "example": "Higher ABEC ratings indicate greater precision and efficiency, suitable for smoother and faster rides."
+    },
+    {
+        "id": "5",
+        "image": "url-to-griptape-image",
+        "name": "Grip Tape",
+        "description": "A gritty, adhesive-backed paper applied to the top of the deck for traction.",
+        "example": "Coarser grip tape provides more traction for tricks, while finer grip tape is easier on shoes for cruising."
+    },
+    {
+        "id": "6",
+        "image": "url-to-risers-image",
+        "name": "Risers",
+        "description": "Plastic or rubber pads placed between the trucks and deck to increase clearance and reduce vibration.",
+        "example": "Risers can help prevent wheel bite during sharp turns and are often used in cruising and longboarding."
+    },
+    {
+        "id": "7",
+        "image": "url-to-hardware-image",
+        "name": "Hardware",
+        "description": "Screws and bolts that secure the trucks to the deck.",
+        "example": "Longer hardware is necessary when using riser pads, while standard length is sufficient for most setups without risers."
+    },
+    {
+        "id": "8",
+        "image": "url-to-bushings-image",
+        "name": "Bushings",
+        "description": "Rubber-like components in the trucks that allow for turning and pivoting.",
+        "example": "Softer bushings are preferred for lighter riders or those looking for easier turning, while harder bushings provide more stability."
+    },
+    {
+        "id": "9",
+        "image": "url-to-skatetool-image",
+        "name": "Skate Tool",
+        "description": "A multi-functional tool designed specifically for skateboards, used to adjust trucks, change wheels, and fit bearings.",
+        "example": "A skate tool is essential for quick adjustments before a session or for assembling a new setup, featuring sockets for the axle, kingpin, and mounting hardware nuts."
+    }
+]
